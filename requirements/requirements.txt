@@ -1,0 +1,10 @@
+1- O Aplicativo deve mostrar se o dispositivo utilizado suporta bluetooth = OK;
+2- O Aplicativo deve informar ao usuário se o bluetooth está ativado ou desativado = OK;
+3- O Aplicativo deve mostrar todos as balanças já conectados ao aparelho (MOSTRARÁ APENAS OS DISPOSITIVOS CONECTADOS POR DENTRO DO APP) = OK;
+4- O Aplicativo deve listar todas as balanças disponiveis para conexão bluetooth = OK;
+5- O Usuário deve poder se conectar a uma balança por dentro do app = OK;
+6- O Usuário deve poder se desconectar de uma balança por dentro do app = OK;
+7- O Usuário deve poder receber pesos da balança por dentro do app = OK;
+8- Caso o usuário desconecte e conecte a balança e receba novamente os pesos, o aplicativo deve receber apenas um fluxo de dados, ou seja,
+deve matar a escuta de dados iniciada na primeira conexão, e manter a escuta de dados apenas da última = OK
+9- O Aplicativo deve mostrar em tela o peso ESTÁVEL mostrado na balança (apenas quando a luz ficar vermelha) = OK.
